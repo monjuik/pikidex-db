@@ -1,0 +1,4636 @@
+{
+  "collection": [
+    {
+      "icon": "restaurant",
+      "name": "Restaurant",
+      "osmTags": ["amenity=restaurant"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "restaurant",
+      "name": "Restaurant — Chef Hat Rare",
+      "color": "yellow",
+      "osmTags": ["amenity=restaurant"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_cafe_outlined",
+      "name": "Cafe",
+      "osmTags": ["amenity=cafe", "cuisine=coffee_shop"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_cafe_outlined",
+      "name": "Café — Coffee Cup (Rare)",
+      "color": "yellow",
+      "osmTags": ["amenity=cafe", "cuisine=coffee_shop"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "cake_outlined",
+      "name": "Sweetshop",
+      "osmTags": ["shop=confectionery", "shop=pastry"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "cake_outlined",
+      "color": "pink",
+      "name": "Sweetshop — Donut",
+      "osmTags": ["shop=confectionery", "shop=pastry"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "theaters_rounded",
+      "name": "Movie Theater",
+      "osmTags": ["amenity=cinema"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "medication_outlined",
+      "name": "Pharmacy",
+      "osmTags": ["amenity=pharmacy"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "pets_outlined",
+      "name": "Zoo",
+      "osmTags": ["tourism=zoo"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "forest_outlined",
+      "name": "Forest — Stag beetle",
+      "color": "grey",
+      "osmTags": ["landuse=forest", "natural=wood"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "forest_outlined",
+      "name": "Forest — Acorn suit",
+      "osmTags": ["landuse=forest", "natural=wood"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "water_outlined",
+      "color": "yellow",
+      "name": "Waterside — Fishing Lure (Rare)",
+      "availableFrom": "2024-09-26",
+      "osmTags": ["natural=water"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "water_outlined",
+      "name": "Waterside",
+      "osmTags": ["natural=water"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_post_office",
+      "name": "Post Office",
+      "osmTags": ["amenity=post_office"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "museum_outlined",
+      "name": "Art Gallery",
+      "osmTags": ["shop=art", "tourism=museum"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "flight_outlined",
+      "name": "Airport",
+      "osmTags": ["aeroway=aerodrome", "aeroway=heliport"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "directions_transit",
+      "name": "Station",
+      "osmTags": ["building=train_station", "railway=station"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "directions_transit",
+      "name": "Station — Ticket",
+      "color": "white",
+      "osmTags": ["building=train_station", "railway=station"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "directions_transit",
+      "name": "Station — Ticket (Gold)",
+      "color": "yellow",
+      "isRegional": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "beach_access",
+      "name": "Beach",
+      "osmTags": ["natural=beach"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "lunch_dining_outlined",
+      "name": "Hamburger Shop",
+      "osmTags": ["amenity=fast_food", "cuisine=burger"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "store_outlined",
+      "name": "Mini-mart",
+      "color": "blue",
+      "osmTags": ["shop=convenience"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "store_outlined",
+      "name": "Mini-mart — Snack",
+      "osmTags": ["shop=convenience"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_grocery_store_outlined",
+      "name": "Supermarket — Banana (Rare)",
+      "availableFrom": "2025-06-13",
+      "color": "yellow",
+      "osmTags": ["shop=supermarket"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_grocery_store_outlined",
+      "name": "Supermarket — Mushroom",
+      "osmTags": ["shop=supermarket"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_grocery_store_outlined",
+      "name": "Supermarket — Banana",
+      "color": "yellow",
+      "osmTags": ["shop=supermarket"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "bakery_dining_outlined",
+      "name": "Bakery",
+      "osmTags": ["cuisine=pretzel", "shop=bakery"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "bakery_dining_outlined",
+      "name": "Bakery — Baguette (Rare)",
+      "color": "yellow",
+      "availableFrom": "2024-09-26",
+      "osmTags": ["cuisine=pretzel", "shop=bakery"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "content_cut_outlined",
+      "name": "Hair Salon — Scissors (Rare)",
+      "color": "yellow",
+      "availableFrom": "2024-09-26",
+      "osmTags": ["shop=hairdresser"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "content_cut_outlined",
+      "name": "Hair Salon",
+      "osmTags": ["shop=hairdresser"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "checkroom_outlined",
+      "name": "Cloting Store",
+      "osmTags": ["shop=clothes", "shop=shoes"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "chair_outlined",
+      "name": "Park",
+      "osmTags": ["leisure=park"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "chair_outlined",
+      "name": "Park — Four-Leaf Clover",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "import_contacts_outlined",
+      "name": "Library — Tiny Book",
+      "osmTags": ["amenity=library"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Green Sticker",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Blue Sticker",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Yellow Sticker",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "edit_road_outlined",
+      "name": "Roadside — Coin",
+      "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "set_meal_outlined",
+      "name": "Sushi Restaurant",
+      "osmTags": ["cuisine=sushi"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "landscape",
+      "name": "Mountain — Pin Badge",
+      "osmTags": ["natural=peak"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "stadium",
+      "name": "Stadium — Ball Keychain",
+      "osmTags": ["leisure=stadium"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "partly_cloudy_day",
+      "name": "Weather — Leaf Hat",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "ac_unit_outlined",
+      "name": "Snowy Day — Snow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "icon": "attractions",
+      "name": "Theme Park — Ferris Wheel",
+      "osmTags": ["tourism=theme_park"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "sailing",
+      "name": "Theme Park — Pirate Ship",
+      "osmTags": ["tourism=theme_park"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "airport_shuttle",
+      "name": "Bus Stop — Bus Papercraft",
+      "osmTags": ["highway=bus_stop"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_pizza",
+      "name": "Italian Restaurant — Pizza",
+      "osmTags": ["cuisine=italian", "cuisine=pasta", "cuisine=pizza"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_pizza",
+      "name": "Italian Restaurant — Pasta",
+      "color": "white",
+      "osmTags": ["cuisine=italian", "cuisine=pasta", "cuisine=pizza"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "ramen_dining",
+      "name": "Ramen Restaurant — Ramen Keychain",
+      "osmTags": [
+        "cuisine=chinese",
+        "cuisine=noodle",
+        "cuisine=ramen",
+        "cuisine=soba",
+        "cuisine=udon"
+      ],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "badge",
+      "name": "Bridge — Bridge Badge",
+      "osmTags": ["bridge=viaduct", "bridge=yes"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "hotel",
+      "name": "Hotel — Hotel Amenities",
+      "osmTags": ["tourism=hotel"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "brush",
+      "name": "Makeup Store — Makeup",
+      "osmTags": [
+        "amenity=pharmacy",
+        "shop=cosmetics",
+        "shop=department_store"
+      ],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (Very Lucky)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "color": "purple",
+      "osmTags": ["religion=shinto", "religion=buddhist"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (Lucky)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (Pretty Lucky)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "color": "red",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (A Little Lucky)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "temple",
+      "name": "Shrines and Temples — Fortune (Future Luck)",
+      "availableFrom": "2023-10-03",
+      "isRegional": true,
+      "color": "white",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "battery",
+      "name": "Appliances Store — Battery",
+      "availableFrom": "2023-11-16",
+      "osmTags": ["shop=appliance", "shop=computer", "shop=electronics"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "color": "yellow"
+        },
+        {
+          "id": 6,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "battery",
+      "name": "Appliances Store — Fairy Lights",
+      "osmTags": ["shop=appliance", "shop=computer", "shop=electronics"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "restaurant",
+      "name": "Curry Restaurant – Curry Bowl",
+      "color": "yellow",
+      "availableFrom": "2024-03-28",
+      "osmTags": ["cuisine=curry", "cuisine=indian", "cuisine=nepalese"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "build",
+      "name": "Hardware Store – Tool",
+      "availableFrom": "2024-09-12",
+      "osmTags": ["shop=doityourself", "shop=hardware"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "school",
+      "name": "University & College – College Crest Patch",
+      "availableFrom": "2024-11-19",
+      "osmTags": ["amenity=university", "building=university"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "restaurant",
+      "color": "red",
+      "name": "Mexican Restaurant – Taco",
+      "availableFrom": "2024-12-16",
+      "osmTags": ["cuisine=mexican", "cuisine='tex-mex'"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "laundry",
+      "name": "Laundromats – Laundry Item",
+      "availableFrom": "2025-03-20",
+      "osmTags": ["shop=laundry", "shop=dry_cleaning"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "restaurant",
+      "color": "purple",
+      "name": "Korean Restaurant – Kimchi",
+      "availableFrom": "2024-12-16",
+      "osmTags": ["cuisine=korean"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Lunar New Year: Red",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-25",
+      "seasonEnd": "2025-03-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Lunar New Year: Gold",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-25",
+      "seasonEnd": "2025-03-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Chess Piece (white)",
+      "color": "white",
+      "isSeasonal": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Chess Piece (black)",
+      "color": "grey",
+      "isSeasonal": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Fingerboard",
+      "color": "purple",
+      "isSeasonal": true,
+      "seasonStart": "2023-11-21",
+      "seasonEnd": "2023-11-28",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "color": "blue"
+        },
+        {
+          "id": 6,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 7,
+          "color": "grey"
+        },
+        {
+          "id": 4,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Red Flower Card",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "red"
+        },
+        {
+          "id": 3,
+          "color": "red"
+        },
+        {
+          "id": 4,
+          "color": "red"
+        },
+        {
+          "id": 5,
+          "color": "red"
+        },
+        {
+          "id": 6,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Yellow Flower Card",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "color": "yellow"
+        },
+        {
+          "id": 6,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Blue Flower Card",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "blue"
+        },
+        {
+          "id": 5,
+          "color": "blue"
+        },
+        {
+          "id": 6,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Purple Flower Card",
+      "color": "purple",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "purple"
+        },
+        {
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Flower Card 2024¹",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "red"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        },
+        {
+          "id": 5,
+          "color": "blue"
+        },
+        {
+          "id": 6,
+          "color": "blue"
+        },
+        {
+          "id": 7,
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Flower Card 2024²",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "grey"
+        },
+        {
+          "id": 5,
+          "color": "grey"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "local_florist",
+      "name": "Special — Flower Card 2024³",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "pink"
+        },
+        {
+          "id": 2,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sentiment_very_dissatisfied",
+      "name": "Special — Jack-O'Lantern",
+      "isSeasonal": true,
+      "seasonStart": "2023-10-06",
+      "seasonEnd": "2023-11-06",
+      "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sentiment_very_dissatisfied",
+      "name": "Special — Halloween Treat",
+      "isSeasonal": true,
+      "seasonStart": "2025-10-03",
+      "seasonEnd": "2025-11-06",
+      "availableFrom": "2023-10-06",
+      "color": "purple",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sentiment_very_dissatisfied",
+      "name": "Special — Halloween Light",
+      "isSeasonal": true,
+      "seasonStart": "2025-10-03",
+      "seasonEnd": "2025-11-06",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — First Anniversary Snack",
+      "isSeasonal": true,
+      "seasonStart": "2024-11-01",
+      "seasonEnd": "2024-11-21",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Koppaite Space Suit",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2024-05-18",
+      "seasonEnd": "2024-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mitten",
+      "isSeasonal": true,
+      "seasonStart": "2024-12-01",
+      "seasonEnd": "2025-01-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — 2023 Glasses",
+      "color": "green",
+      "isSeasonal": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — 2024 Glasses",
+      "color": "green",
+      "isSeasonal": true,
+      "seasonStart": "2024-12-23",
+      "seasonEnd": "2025-01-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Present Sticker",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-02-01",
+      "seasonEnd": "2025-03-10",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Reverse Valentine’s Day Sticker",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2025-03-08",
+      "seasonEnd": "2025-04-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Present Sticker (Gold)",
+      "color": "yellow",
+      "isRegional": true,
+      "isSeasonal": true,
+      "seasonStart": "2025-09-20",
+      "seasonEnd": "2025-09-25",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "egg",
+      "name": "Special — Easter Egg",
+      "isSeasonal": true,
+      "seasonStart": "2025-04-04",
+      "seasonEnd": "2025-05-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "egg",
+      "color": "pink",
+      "name": "Special — Bunny Egg",
+      "isSeasonal": true,
+      "seasonStart": "2025-04-04",
+      "seasonEnd": "2025-05-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "walk",
+      "name": "Special — Sneaker Keychain",
+      "isSeasonal": true,
+      "seasonStart": "2023-11-06",
+      "seasonEnd": "2023-11-14",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Pikmin 4 Spaceship",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2024-05-18",
+      "seasonEnd": "2024-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (red)",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (yellow)",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (blue)",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (white)",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "white"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (purple)",
+      "color": "purple",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "purple"
+        },
+        {
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (grey)",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "grey"
+        },
+        {
+          "id": 2,
+          "color": "grey"
+        },
+        {
+          "id": 3,
+          "color": "grey"
+        },
+        {
+          "id": 4,
+          "color": "grey"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mahjong Tile (pink)",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "pink"
+        },
+        {
+          "id": 2,
+          "color": "pink"
+        },
+        {
+          "id": 3,
+          "color": "pink"
+        },
+        {
+          "id": 4,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "icecream",
+      "name": "Special — Ice Cream",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2025-07-01",
+      "seasonEnd": "2025-08-05",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "icecream",
+      "name": "Special — Ice Cream: 2024 Flavor",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-08-01",
+      "seasonEnd": "2025-09-05",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Puzzle: 2021 Fall Memories",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2024-11-15",
+      "seasonEnd": "2024-11-28",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Puzzle: 2022 Summer Memories",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2025-06-06",
+      "seasonEnd": "2025-07-06",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Puzzle: 2023 Summer Memories",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2025-06-06",
+      "seasonEnd": "2025-07-06",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Puzzle: 2024 Fall Memories",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2024-09-14",
+      "seasonEnd": "2024-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Spring Sticker",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-03-01",
+      "seasonEnd": "2025-04-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Summer Sticker",
+      "color": "green",
+      "isSeasonal": true,
+      "seasonStart": "2025-08-01",
+      "seasonEnd": "2025-09-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Fall Sticker",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2024-10-14",
+      "seasonEnd": "2024-11-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Winter Sticker",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2024-12-01",
+      "seasonEnd": "2025-01-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (red)",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "red"
+        },
+        {
+          "id": 3,
+          "color": "red"
+        },
+        {
+          "id": 4,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (yellow)",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (blue)",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (white)",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (purple)",
+      "color": "purple",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "purple"
+        },
+        {
+          "id": 2,
+          "color": "purple"
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (grey)",
+      "color": "grey",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "grey"
+        },
+        {
+          "id": 2,
+          "color": "grey"
+        },
+        {
+          "id": 3,
+          "color": "grey"
+        },
+        {
+          "id": 4,
+          "color": "grey"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Playing Card (pink)",
+      "color": "pink",
+      "isSeasonal": true,
+      "seasonStart": "2025-05-01",
+      "seasonEnd": "2025-06-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "pink"
+        },
+        {
+          "id": 2,
+          "color": "pink"
+        },
+        {
+          "id": 3,
+          "color": "pink"
+        },
+        {
+          "id": 4,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Cheese",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2024-06-01",
+      "seasonEnd": "2024-07-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Coral",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-07-04",
+      "seasonEnd": "2025-08-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Paint Decor",
+      "color": "purple",
+      "isSeasonal": true,
+      "seasonStart": "2024-09-01",
+      "seasonEnd": "2024-10-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Rosette",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-20",
+      "seasonEnd": "2025-10-01",
+      "isRegional": true,
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "color": "blue",
+      "name": "Special — 3rd Anniversary Cupcake",
+      "isSeasonal": true,
+      "seasonStart": "2024-11-01",
+      "seasonEnd": "2024-12-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Ball Ornament",
+      "isSeasonal": true,
+      "seasonStart": "2024-12-01",
+      "seasonEnd": "2025-01-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Party Popper 2025",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2025-01-01",
+      "seasonEnd": "2025-02-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Chocolate",
+      "isSeasonal": true,
+      "seasonStart": "2025-02-01",
+      "seasonEnd": "2025-03-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Rio Carnival",
+      "isSeasonal": true,
+      "seasonStart": "2025-03-01",
+      "seasonEnd": "2025-04-07",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Afternoon Tea",
+      "isSeasonal": true,
+      "seasonStart": "2025-04-01",
+      "seasonEnd": "2025-05-07",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Nintendo Consoles '80–'90",
+      "isSeasonal": true,
+      "seasonStart": "2025-10-29",
+      "seasonEnd": "2025-11-05",
+      "color": "grey",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Tiny Instrument",
+      "isSeasonal": true,
+      "color": "yellow",
+      "seasonStart": "2025-06-01",
+      "seasonEnd": "2025-07-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "surfing",
+      "name": "Special — Surfboard Keychain",
+      "isSeasonal": true,
+      "seasonStart": "2025-07-01",
+      "seasonEnd": "2025-08-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "ac_unit_outlined",
+      "name": "Special — Shaved Ice",
+      "isSeasonal": true,
+      "seasonStart": "2025-08-01",
+      "seasonEnd": "2025-09-07",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Mooncake",
+      "isSeasonal": true,
+      "seasonStart": "2025-09-01",
+      "seasonEnd": "2025-10-07",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Calavera",
+      "isSeasonal": true,
+      "seasonStart": "2025-10-01",
+      "seasonEnd": "2025-11-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Photo Button Badge",
+      "color": "red",
+      "isSeasonal": true,
+      "seasonStart": "2025-10-22",
+      "seasonEnd": "2025-11-23",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "advancedCollection": [
+    {
+      "icon": "sticky_note_2_outlined",
+      "name": "Green sticker",
+      "color": "green",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sticky_note_2_outlined",
+      "name": "Blue sticker",
+      "color": "blue",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "sticky_note_2_outlined",
+      "name": "Yellow sticker",
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "ac_unit_outlined",
+      "name": "Winter 2021",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    }
+  ],
+  "shinyCollection": [
+    {
+      "icon": "restaurant",
+      "name": "Restaurant — Shiny chef hat",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}
