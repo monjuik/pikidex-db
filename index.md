@@ -26,6 +26,56 @@ This repository hosts the public JSON file with up-to-date Pikmin decor data, cu
   - `collection` is an ordered array; each element maps directly to a PikminGroup.
   - Entries are read as-is, so their order and optional fields are preserved for display logic.
 
+### Example
+
+``` json
+{
+  "icon": "restaurant",
+  "name": "Restaurant",
+  "translations": {
+    "en": "Restaurant — Chef Hat",
+    "es": "Restaurante — Gorro de Chef",
+    "de": "Restaurant – Seltene Kochmütze",
+    "ja": "レストラン — シェフハット"
+    },
+  "osmTags": ["amenity=restaurant"],
+  "pikmins": [
+    {
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "color": "white"
+    },
+    {
+      "id": 5,
+      "color": "purple"
+    },
+    {
+      "id": 6,
+      "color": "grey"
+    },
+    {
+      "id": 7,
+      "color": "pink"
+    },
+    {
+      "id": 8,
+      "color": "lightBlue"
+    }
+  ]
+}
+```
+
 ###  Pikmin Group Object
 
   - `icon` names a Material icon (or single glyph) and color holds one of `red`, `yellow`, `blue`, `white`, `purple`, `grey`, `pink`, `green`, `lightBlue` to tint the badge.
