@@ -1,12 +1,17 @@
-theme: minima
-
 title: Pikidex DB
+
+author:
+  name: monjuik
+  email: a.malinin@gmail.com
+
+theme: minima
 
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-minifier
+  - jekyll-seo-tag
 
-author:
-  name: monjuik
-  email: a.malinin@gmail.com
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
