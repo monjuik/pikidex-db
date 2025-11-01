@@ -105,6 +105,8 @@ Registry](https://www.iana.org/assignments/language-subtag-registry/language-sub
 
 ## 🧑‍💻 Contributing
 
+Report issues or suggest improvements at [GitHub](https://github.com/monjuik/pikidex-db/issues).
+
 You can help keep the dataset accurate and current:
 
 1. Fork this repository
