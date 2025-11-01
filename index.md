@@ -1,8 +1,13 @@
-# Pikidex Decor Collection Data
+---
+layout: default
+title: Pikidex Decor Collection Data
+published: true
+last_modified_at: 2025-11-01
+---
+
 
 Community-maintained dataset for the Pikidex app — a companion for *Pikmin Bloom* that helps track and organize your Pikmin decor collection.
 
----
 
 ## 📦 About
 
@@ -13,15 +18,14 @@ This repository hosts the public JSON file with up-to-date Pikmin decor data, cu
 - Updates: community contributions are welcome via pull requests
 - Website: [https://monjuik.github.io/pikidex-db](https://monjuik.github.io/pikidex-db)
 
----
 
 ## 🧑‍💻 Contributing
 
 You can help keep the dataset accurate and current:
 
-1. Fork this repository  
-2. Update `pikidex.json` (add new items, fix names, etc.)  
-3. Submit a Pull Request with a short description of your changes  
+1. Fork this repository
+2. Update `pikidex.json` (add new items, fix names, etc.)
+3. Submit a Pull Request with a short description of your changes
 
 Before submitting, please validate the JSON format.
 
@@ -29,7 +33,7 @@ Before submitting, please validate the JSON format.
 
 ## ⚖️ License
 
-© 2025 Pikidex Community  
+© 2025 Pikidex Community
 Licensed under the [Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 > Commercial redistribution, resale, or integration of this dataset into paid or ad-monetized applications is strictly prohibited.
