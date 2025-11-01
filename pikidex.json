@@ -32,6 +32,10 @@
         {
           "id": 7,
           "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
@@ -1214,6 +1218,10 @@
         {
           "id": 7,
           "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
@@ -1249,6 +1257,10 @@
         {
           "id": 7,
           "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
@@ -1284,6 +1296,10 @@
         {
           "id": 7,
           "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
@@ -1319,6 +1335,10 @@
         {
           "id": 7,
           "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
@@ -3395,8 +3415,8 @@
       "name": "Special — Puzzle: 2021 Fall Memories",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2024-11-15",
-      "seasonEnd": "2024-11-28",
+      "seasonStart": "2025-11-01",
+      "seasonEnd": "2025-12-07",
       "pikmins": [
         {
           "id": 1,
@@ -4010,8 +4030,8 @@
       "color": "blue",
       "name": "Special — 3rd Anniversary Cupcake",
       "isSeasonal": true,
-      "seasonStart": "2024-11-01",
-      "seasonEnd": "2024-12-07",
+      "seasonStart": "2025-11-01",
+      "seasonEnd": "2025-12-07",
       "pikmins": [
         {
           "id": 1,
@@ -4468,6 +4488,48 @@
         {
           "id": 1,
           "color": "red"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — 4th Anniversary Flower Box",
+      "isSeasonal": true,
+      "color": "blue",
+      "seasonStart": "2025-11-01",
+      "seasonEnd": "2025-12-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     }
