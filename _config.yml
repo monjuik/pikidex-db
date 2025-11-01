@@ -1,1 +1,12 @@
 theme: minima
+
+title: Pikidex DB
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-minifier
+
+author:
+  name: monjuik
+  email: a.malinin@gmail.com
