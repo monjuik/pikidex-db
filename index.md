@@ -18,6 +18,28 @@ This repository hosts the public JSON file with up-to-date Pikmin decor data, cu
 - Updates: community contributions are welcome via pull requests
 - Website: [https://monjuik.github.io/pikidex-db](https://monjuik.github.io/pikidex-db)
 
+## Pikidex.json format
+
+### Main Collection Structure
+
+  - Root JSON exposes `collection`, which the app loads into its "Decor Collector".
+  - `collection` is an ordered array; each element maps directly to a PikminGroup.
+  - Entries are read as-is, so their order and optional fields are preserved for display logic.
+
+###  Pikmin Group Object
+
+  - `icon` names a Material icon (or single glyph) and color holds one of `red`, `yellow`, `blue`, `white`, `purple`, `grey`, `pink`, `green`, `lightBlue` to tint the badge.
+  - `name` is the default English title; `translations` is a locale→string map letting the app surface the right caption per user locale. `name` is used to form a key for storing progress on your device.
+  - `pikmins` lists the group’s members in order; each item is a Pikmin entry described below.
+  - `isSeasonal` toggles limited-time sets, with `seasonStart`/`seasonEnd` (ISO 8601 strings) framing the window; `availableFrom` captures the first known release date.
+  - `isRegional` flags location-locked sets, while `osmTags` enumerates relevant OpenStreetMap tag selectors for real-world POIs.
+  - Any omitted field simply falls back to sensible defaults in the UI (for example, booleans default to false).
+
+###  Pikmin Entry
+
+  - `id` is the numeric identifier the app uses for progress tracking and look-ups.
+  - `color` repeats the Pikmin colour keyword so UI elements can render with the correct hue.
+
 
 ## 🧑‍💻 Contributing
 
@@ -29,7 +51,6 @@ You can help keep the dataset accurate and current:
 
 Before submitting, please validate the JSON format.
 
----
 
 ## ⚖️ License
 
