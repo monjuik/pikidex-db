@@ -78,12 +78,24 @@ This repository hosts the public JSON file with up-to-date Pikmin decor data, cu
 
 ###  Pikmin Group Object
 
-  - `icon` names a Material icon (or single glyph) and color holds one of `red`, `yellow`, `blue`, `white`, `purple`, `grey`, `pink`, `green`, `lightBlue` to tint the badge.
-  - `name` is the default English title; `translations` is a locale→string map letting the app surface the right caption per user locale. `name` is used to form a key for storing progress on your device.
+  - `icon` names a Material icon (or single glyph) and `color` holds one of `red`, `yellow`, `blue`, `white`, `purple`, `grey`, `pink`, `green`, `lightBlue` to tint the badge. NB, not all icons are available in the app.
+  - `name` is the default English title. `name` is used to form a key for storing progress on your device, that's why we should think of backward compatability and change it only in really needed cases.
+  - `translations` is a locale→string map letting the app surface the right caption per user locale. Locale uses  [IANA Language Subtag
+Registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), supported by Pikidex:
+    - `en`
+    - `fr`
+    - `es`
+    - `de`
+    - `it`
+    - `pt`
+    - `ja`
+    - `ko`
   - `pikmins` lists the group’s members in order; each item is a Pikmin entry described below.
-  - `isSeasonal` toggles limited-time sets, with `seasonStart`/`seasonEnd` (ISO 8601 strings) framing the window; `availableFrom` captures the first known release date.
+  - `availableFrom` captures the first known release date.
+  - `isSeasonal` toggles limited-time sets, with `seasonStart`/`seasonEnd` (ISO 8601 strings) framing the window.
   - `isRegional` flags location-locked sets, while `osmTags` enumerates relevant OpenStreetMap tag selectors for real-world POIs.
-  - Any omitted field simply falls back to sensible defaults in the UI (for example, booleans default to false).
+  - Unsupported JSON-fields are ignored.
+  - Unsupported values (for color, icon) are converted to default values.
 
 ###  Pikmin Entry
 
