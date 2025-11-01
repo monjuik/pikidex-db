@@ -3,6 +3,16 @@
     {
       "icon": "restaurant",
       "name": "Restaurant",
+      "translations": {
+        "en": "Restaurant — Chef Hat",
+        "es": "Restaurante — Gorro de Chef",
+        "fr": "Restaurant — Toque de cuisinier",
+        "de": "Restaurant – Kochmütze",
+        "it": "Ristorante – Cappello da chef",
+        "ja": "レストラン — シェフの帽子",
+        "ko": "레스토랑 — 셰프 모자",
+        "pt": "Restaurante — Chapéu mestre-cuca"
+      },
       "osmTags": ["amenity=restaurant"],
       "pikmins": [
         {
@@ -42,6 +52,16 @@
     {
       "icon": "restaurant",
       "name": "Restaurant — Chef Hat Rare",
+      "translations": {
+        "en": "Restaurant — Chef Hat (Rare)",
+        "es": "Restaurante — Gorro de chef (inusual)",
+        "fr": "Restaurant — Toque de chef (rare)",
+        "de": "Restaurant – Kochmütze (Selten)",
+        "it": "Ristorante – Cappello da chef (raro)",
+        "ja": "レストラン — シェフの帽子 レア",
+        "ko": "레스토랑 — 셰프 모자(희귀)",
+        "pt": "Restaurante — Chapéu de mestre-cuca (raro)"
+      },
       "color": "yellow",
       "osmTags": ["amenity=restaurant"],
       "pikmins": [
