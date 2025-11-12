@@ -1535,6 +1535,10 @@
         {
           "id": 2,
           "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "lightBlue"
         }
       ]
     },
