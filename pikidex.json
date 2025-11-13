@@ -3221,6 +3221,44 @@
     },
     {
       "icon": "question_mark_outlined",
+      "name": "Special — Pikmin 4 Toy",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
       "name": "Special — Mahjong Tile (red)",
       "color": "red",
       "isSeasonal": true,
@@ -4603,44 +4641,6 @@
       "pikmins": [
         {
           "id": 1,
-          "color": "lightBlue"
-        }
-      ]
-    },
-    {
-      "icon": "question_mark_outlined",
-      "name": "Special — Pikmin 4 Toy",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "red"
-        },
-        {
-          "id": 2,
-          "color": "yellow"
-        },
-        {
-          "id": 3,
-          "color": "blue"
-        },
-        {
-          "id": 4,
-          "color": "white"
-        },
-        {
-          "id": 5,
-          "color": "purple"
-        },
-        {
-          "id": 6,
-          "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
-        },
-        {
-          "id": 8,
           "color": "lightBlue"
         }
       ]
