@@ -4658,6 +4658,18 @@
           "color": "lightBlue"
         }
       ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Pacifier",
+      "color": "red",
+      "availableFrom": "2025-11-27",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        }
+      ]
     }
   ],
   "advancedCollection": [
