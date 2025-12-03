@@ -4608,8 +4608,8 @@
       "name": "Special — Photo Button Badge",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2025-10-22",
-      "seasonEnd": "2025-11-23",
+      "seasonStart": "2025-12-05",
+      "seasonEnd": "2025-12-15",
       "pikmins": [
         {
           "id": 1,
