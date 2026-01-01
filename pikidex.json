@@ -4591,20 +4591,6 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special — Golden Toy Airplane",
-      "color": "yellow",
-      "isSeasonal": true,
-      "seasonStart": "2025-11-17",
-      "seasonEnd": "2026-01-06",
-      "pikmins": [
-        {
-          "id": 1,
-          "color": "yellow"
-        }
-      ]
-    },
-    {
-      "icon": "question_mark_outlined",
       "name": "Special — Photo Button Badge",
       "color": "red",
       "isSeasonal": true,
@@ -4787,6 +4773,20 @@
         {
           "id": 8,
           "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Golden Toy Airplane",
+      "color": "yellow",
+      "isSeasonal": true,
+      "seasonStart": "2025-11-17",
+      "seasonEnd": "2026-01-06",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "yellow"
         }
       ]
     }
