@@ -2925,8 +2925,8 @@
       "name": "Special — 2024 Glasses",
       "color": "green",
       "isSeasonal": true,
-      "seasonStart": "2024-12-23",
-      "seasonEnd": "2025-01-07",
+      "seasonStart": "2026-01-01",
+      "seasonEnd": "2026-02-07",
       "pikmins": [
         {
           "id": 1,
@@ -4217,8 +4217,8 @@
       "name": "Special — Party Popper 2025",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2025-01-01",
-      "seasonEnd": "2025-02-07",
+      "seasonStart": "2026-01-01",
+      "seasonEnd": "2026-02-07",
       "pikmins": [
         {
           "id": 1,
