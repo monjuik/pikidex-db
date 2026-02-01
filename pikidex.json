@@ -4791,6 +4791,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — 2026 Chocolate",
+      "color": "white"
       "isSeasonal": true,
       "seasonStart": "2026-02-01",
       "seasonEnd": "2026-03-07",
