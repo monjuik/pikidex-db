@@ -4266,8 +4266,8 @@
       "icon": "question_mark_outlined",
       "name": "Special — Chocolate",
       "isSeasonal": true,
-      "seasonStart": "2025-02-01",
-      "seasonEnd": "2025-03-07",
+      "seasonStart": "2026-02-01",
+      "seasonEnd": "2026-03-07",
       "pikmins": [
         {
           "id": 1,
