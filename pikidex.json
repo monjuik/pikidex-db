@@ -3013,8 +3013,8 @@
       "name": "Special — Reverse Valentine’s Day Sticker",
       "color": "blue",
       "isSeasonal": true,
-      "seasonStart": "2025-03-08",
-      "seasonEnd": "2025-04-07",
+      "seasonStart": "2026-03-03",
+      "seasonEnd": "2026-04-07",
       "pikmins": [
         {
           "id": 1,
@@ -4341,8 +4341,8 @@
       "icon": "question_mark_outlined",
       "name": "Special — Afternoon Tea",
       "isSeasonal": true,
-      "seasonStart": "2025-04-01",
-      "seasonEnd": "2025-05-07",
+      "seasonStart": "2026-03-03",
+      "seasonEnd": "2026-04-07",
       "color": "green",
       "pikmins": [
         {
