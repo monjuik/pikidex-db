@@ -52,6 +52,7 @@
     {
       "icon": "restaurant",
       "name": "Restaurant — Chef Hat Rare",
+      "isRare": true,
       "translations": {
         "en": "Restaurant — Chef Hat (Rare)",
         "es": "Restaurante — Gorro de chef (inusual)",
@@ -137,6 +138,7 @@
     {
       "icon": "local_cafe_outlined",
       "name": "Café — Coffee Cup (Rare)",
+      "isRare": true,
       "color": "yellow",
       "osmTags": ["amenity=cafe", "cuisine=coffee_shop"],
       "pikmins": [
@@ -429,6 +431,7 @@
       "icon": "water_outlined",
       "color": "yellow",
       "name": "Waterside — Fishing Lure (Rare)",
+      "isRare": true,
       "availableFrom": "2024-09-26",
       "osmTags": ["natural=water"],
       "pikmins": [
@@ -829,6 +832,7 @@
     {
       "icon": "local_grocery_store_outlined",
       "name": "Supermarket — Banana (Rare)",
+      "isRare": true,
       "availableFrom": "2025-06-13",
       "color": "yellow",
       "osmTags": ["shop=supermarket"],
@@ -972,6 +976,7 @@
     {
       "icon": "bakery_dining_outlined",
       "name": "Bakery — Baguette (Rare)",
+      "isRare": true,
       "color": "yellow",
       "availableFrom": "2024-09-26",
       "osmTags": ["cuisine=pretzel", "shop=bakery"],
@@ -1009,6 +1014,7 @@
     {
       "icon": "content_cut_outlined",
       "name": "Hair Salon — Scissors (Rare)",
+      "isRare": true,
       "color": "yellow",
       "availableFrom": "2024-09-26",
       "osmTags": ["shop=hairdresser"],
@@ -1186,6 +1192,7 @@
     {
       "icon": "chair_outlined",
       "name": "Park — Clover (Rare)",
+      "isRare": true,
       "color": "yellow",
       "pikmins": [
         {
@@ -1221,6 +1228,7 @@
     {
       "icon": "chair_outlined",
       "name": "Park — Four-Leaf Clover (Rare)",
+      "isRare": true,
       "color": "yellow",
       "pikmins": [
         {
@@ -2323,7 +2331,7 @@
       "availableFrom": "2024-12-16",
       "osmTags": ["cuisine=korean"],
       "pikmins": [
-{
+        {
           "id": 1,
           "color": "red"
         },
