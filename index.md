@@ -94,6 +94,7 @@ Registry](https://www.iana.org/assignments/language-subtag-registry/language-sub
   - `availableFrom` captures the first known release date.
   - `isSeasonal` toggles limited-time sets, with `seasonStart`/`seasonEnd` (ISO 8601 strings) framing the window.
   - `isRegional` flags location-locked sets, while `osmTags` enumerates relevant OpenStreetMap tag selectors for real-world POIs.
+  - `isRare` marks the griup as rare decor.
   - Unsupported JSON-fields are ignored.
   - Unsupported values (for color, icon) are converted to default values.
 
