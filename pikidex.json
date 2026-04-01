@@ -3203,8 +3203,8 @@
       "icon": "egg",
       "name": "Special — Easter Egg",
       "isSeasonal": true,
-      "seasonStart": "2025-04-04",
-      "seasonEnd": "2025-05-07",
+      "seasonStart": "2026-04-01",
+      "seasonEnd": "2026-05-07",
       "pikmins": [
         {
           "id": 1,
@@ -3241,8 +3241,8 @@
       "color": "pink",
       "name": "Special — Bunny Egg",
       "isSeasonal": true,
-      "seasonStart": "2025-04-04",
-      "seasonEnd": "2025-05-07",
+      "seasonStart": "2026-04-01",
+      "seasonEnd": "2026-05-07",
       "pikmins": [
         {
           "id": 1,
@@ -4139,8 +4139,8 @@
       "name": "Special — Cheese",
       "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2024-06-01",
-      "seasonEnd": "2024-07-07",
+      "seasonStart": "2026-04-01",
+      "seasonEnd": "2026-05-07",
       "pikmins": [
         {
           "id": 1,
