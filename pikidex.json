@@ -2367,12 +2367,24 @@
     },
     {
       "icon": "question_mark_outlined",
-      "name": "Special",
+      "name": "Special — Super Mario Keychain",
       "pikmins": [
         {
           "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
           "color": "blue"
-        }
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        }    
       ]
     },
     {
