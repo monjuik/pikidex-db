@@ -3186,8 +3186,8 @@
       "color": "yellow",
       "isRegional": true,
       "isSeasonal": true,
-      "seasonStart": "2025-09-20",
-      "seasonEnd": "2025-09-25",
+      "seasonStart": "2026-05-23",
+      "seasonEnd": "2026-05-25",
       "pikmins": [
         {
           "id": 1,
@@ -3209,8 +3209,12 @@
           "id": 5,
           "color": "purple"
         },
-        {
+         {
           "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
           "color": "pink"
         }
       ]
@@ -4269,8 +4273,8 @@
       "name": "Special — Rosette",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2025-09-20",
-      "seasonEnd": "2025-10-01",
+      "seasonStart": "2026-05-23",
+      "seasonEnd": "2026-05-25",
       "isRegional": true,
       "pikmins": [
         {
@@ -4280,7 +4284,11 @@
         {
           "id": 2,
           "color": "yellow"
-        }
+        },
+        {
+          "id": 3,
+          "color": "purple"
+        },
       ]
     },
     {
@@ -4740,8 +4748,8 @@
       "name": "Special — Photo Button Badge",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2025-12-05",
-      "seasonEnd": "2025-12-15",
+      "seasonStart": "2026-05-23",
+      "seasonEnd": "2026-05-25",
       "pikmins": [
         {
           "id": 1,
