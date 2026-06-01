@@ -3753,8 +3753,8 @@
       "name": "Special — Puzzle: 2023 Summer Memories",
       "color": "blue",
       "isSeasonal": true,
-      "seasonStart": "2025-06-06",
-      "seasonEnd": "2025-07-06",
+      "seasonStart": "2026-06-01",
+      "seasonEnd": "2026-07-07",
       "pikmins": [
         {
           "id": 1,
@@ -4597,8 +4597,8 @@
       "icon": "surfing",
       "name": "Special — Surfboard Keychain",
       "isSeasonal": true,
-      "seasonStart": "2025-07-01",
-      "seasonEnd": "2025-08-07",
+      "seasonStart": "2026-06-01",
+      "seasonEnd": "2026-07-07",
       "pikmins": [
         {
           "id": 1,
