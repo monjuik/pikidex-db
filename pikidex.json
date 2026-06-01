@@ -5059,6 +5059,16 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Game Pak",
+      "translations": {
+        "en": "Special — Game Pak",
+        "es": "Especial — Cartucho de juego",
+        "fr": "Spécial — Cartouche de jeu",
+        "de": "Besonder — Spielmodul",
+        "it": "Speciale — Cartuccia di gioco",
+        "ja": "スペシャル — ゲームカセット",
+        "ko": "특별 — 게임 팩",
+        "pt": "Especial — Cartucho de jogo"
+      },
       "color": "green",
       "isSeasonal": true,
       "seasonStart": "2026-05-01",
@@ -5101,6 +5111,16 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Flower Crown",
+      "translations": {
+        "en": "Special — Flower Crown",
+        "es": "Especial — Corona de flores",
+        "fr": "Spécial — Couronne de fleurs",
+        "de": "Besonder — Blumenkranz",
+        "it": "Speciale — Corona di fiori",
+        "ja": "スペシャル — 花かんむり",
+        "ko": "특별 — 화관",
+        "pt": "Especial — Coroa de flores"
+      },
       "color": "white",
       "isSeasonal": true,
       "seasonStart": "2026-06-01",
@@ -5143,6 +5163,16 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Golden Toy Airplane",
+      "translations": {
+        "en": "Special — Golden Toy Airplane",
+        "es": "Especial — Avión de juguete dorado",
+        "fr": "Spécial — Petit avion doré",
+        "de": "Besonder — Goldenes Spielflugzeug",
+        "it": "Speciale — Aeroplanino dorato",
+        "ja": "スペシャル — 金の飛行機のおもちゃ",
+        "ko": "특별 — 금색 장난감 비행기",
+        "pt": "Especial — Aviãozinho dourado"
+      },
       "color": "yellow",
       "isSeasonal": true,
       "seasonStart": "2025-11-17",
