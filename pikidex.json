@@ -2439,6 +2439,56 @@
       ]
     },
     {
+      "icon": "design_services",
+      "name": "Stationery Store — Stationery",
+      "availableFrom": "2026-06-12",
+      "translations": {
+        "en": "Stationery Store — Stationery",
+        "es": "Papelería — Artículos de papelería",
+        "fr": "Papeterie — Fournitures de bureau",
+        "de": "Schreibwarenladen – Schreibwaren",
+        "it": "Negozio di cartoleria – Cartoleria",
+        "ja": "文房具屋さん — 文房具",
+        "ko": "문구점 — 문구",
+        "pt": "Papelaria — Papelaria"
+      },
+      "osmTags": ["shop=stationery", "shop=craft"],  
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
       "icon": "question_mark_outlined",
       "name": "Special — Super Mario Keychain",
       "pikmins": [
