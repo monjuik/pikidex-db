@@ -281,6 +281,63 @@
     {
       "icon": "medication_outlined",
       "name": "Pharmacy",
+        "translations": {
+          "en": "Pharmacy — Toothbrush",
+          "es": "Farmacia — Higiene dental",
+          "fr": "Pharmacie — Dentifrice",
+          "de": "Apotheke – Zahnpflege",
+          "it": "Farmacia – Spazzolino",
+          "ja": "薬局 — 歯みがき",
+          "ko": "약국 — 칫솔",
+          "pt": "Farmácia — Higiene bucal"
+        },      
+      "osmTags": ["amenity=pharmacy"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "medication_outlined",
+      "name": "Pharmacy — Toothbrush Rare",
+      "isRare": true,
+      "translations": {
+        "en": "Pharmacy — Toothbrush (Rare)",
+        "es": "Farmacia — Cepillo de dientes (inusual)",
+        "fr": "Pharmacie — Brosse à dents (rare)",
+        "de": "Apotheke – Zahnbürste (selten)",
+        "it": "Farmacia – Spazzolino (raro)",
+        "ja": "薬局 — 歯みがき レア",
+        "ko": "약국 — 칫솔(희귀)",
+        "pt": "Farmácia — Higiene bucal (raro)"
+      },
+      "color": "yellow",
       "osmTags": ["amenity=pharmacy"],
       "pikmins": [
         {
