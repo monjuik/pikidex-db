@@ -5270,7 +5270,7 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Tiny Instrument: Orchestra",
-      "color": "white",
+      "color": "yellow",
       "isSeasonal": true,
       "seasonStart": "2026-07-01",
       "seasonEnd": "2026-08-07",
