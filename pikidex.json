@@ -3697,8 +3697,8 @@
       "name": "Special — Ice Cream",
       "color": "white",
       "isSeasonal": true,
-      "seasonStart": "2025-07-01",
-      "seasonEnd": "2025-08-05",
+      "seasonStart": "2026-07-01",
+      "seasonEnd": "2026-08-05",
       "pikmins": [
         {
           "id": 1,
@@ -4667,8 +4667,8 @@
       "name": "Special — Tiny Instrument",
       "isSeasonal": true,
       "color": "yellow",
-      "seasonStart": "2025-06-01",
-      "seasonEnd": "2025-07-07",
+      "seasonStart": "2026-07-01",
+      "seasonEnd": "2026-08-07",
       "pikmins": [
         {
           "id": 1,
@@ -5232,6 +5232,48 @@
       "isSeasonal": true,
       "seasonStart": "2026-06-01",
       "seasonEnd": "2026-07-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
+      "name": "Special — Tiny Instrument: Orchestra",
+      "color": "white",
+      "isSeasonal": true,
+      "seasonStart": "2026-07-01",
+      "seasonEnd": "2026-08-07",
       "pikmins": [
         {
           "id": 1,
