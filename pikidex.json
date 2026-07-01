@@ -4855,8 +4855,8 @@
       "name": "Special — Photo Button Badge",
       "color": "red",
       "isSeasonal": true,
-      "seasonStart": "2026-05-23",
-      "seasonEnd": "2026-05-25",
+      "seasonStart": "2026-07-01",
+      "seasonEnd": "2026-07-15",
       "pikmins": [
         {
           "id": 1,
