@@ -2,7 +2,7 @@
 layout: default
 title: Pikidex Decor Collection Data
 published: true
-last_modified_at: 2025-11-01
+last_modified_at: 2026-07-03
 ---
 
 
@@ -115,6 +115,8 @@ You can help keep the dataset accurate and current:
 3. Submit a Pull Request with a short description of your changes
 
 Before submitting, please validate the JSON format.
+
+Updating missing translations would be very helpful. For this kindly use original naming from the game, not from the translator services.
 
 
 ## ⚖️ License
