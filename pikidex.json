@@ -4631,6 +4631,9 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Nintendo Consoles '80–'90",
+      "translations": {
+        "en": "Special — Nintendo Consoles '80–'95"
+      },
       "isSeasonal": true,
       "seasonStart": "2026-05-01",
       "seasonEnd": "2026-06-05",
@@ -4669,6 +4672,9 @@
     {
       "icon": "question_mark_outlined",
       "name": "Special — Tiny Instrument",
+      "translations": {
+        "en": "Special — Tiny Instrument: Brass Band"
+      },
       "isSeasonal": true,
       "color": "yellow",
       "seasonStart": "2026-07-01",
