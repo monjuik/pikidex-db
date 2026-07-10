@@ -1678,6 +1678,42 @@
       ]
     },
     {
+      "icon": "stadium",
+      "name": "Stadium — Ball Keychain (Rare)",
+      "osmTags": ["leisure=stadium"],
+      "color": "yellow",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
       "icon": "partly_cloudy_day",
       "name": "Weather — Leaf Hat",
       "pikmins": [
