@@ -739,6 +739,43 @@
     },
     {
       "icon": "directions_transit",
+      "name": "Station — Ticket (Rare)",
+      "isRare": true,
+      "color": "yellow",
+      "osmTags": ["building=train_station", "railway=station"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "directions_transit",
       "name": "Station — Ticket (Gold)",
       "color": "yellow",
       "isRegional": true,
@@ -1536,6 +1573,7 @@
     {
       "icon": "edit_road_outlined",
       "name": "Roadside — Coin (Rare)",
+      "isRare": true,
       "color": "yellow",
       "pikmins": [
         {
@@ -1680,6 +1718,7 @@
     {
       "icon": "stadium",
       "name": "Stadium — Ball Keychain (Rare)",
+      "isRare": true,
       "osmTags": ["leisure=stadium"],
       "color": "yellow",
       "pikmins": [
