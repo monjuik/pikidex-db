@@ -1031,6 +1031,10 @@
         {
           "id": 7,
           "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
