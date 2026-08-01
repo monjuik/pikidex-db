@@ -5400,6 +5400,47 @@
     },
     {
       "icon": "question_mark_outlined",
+      "name": "Special — Balinese Carving",
+      "isSeasonal": true,
+      "seasonStart": "2026-08-01",
+      "seasonEnd": "2026-09-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
       "name": "Special — Golden Toy Airplane",
       "translations": {
         "en": "Special — Golden Toy Airplane",
