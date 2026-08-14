@@ -642,6 +642,10 @@
     {
       "icon": "flight_outlined",
       "name": "Airport",
+      "translations": {
+        "en": "Airport — Toy Airplane",
+        "de": "Flughafen — Spielflugzeug"
+      },
       "osmTags": ["aeroway=aerodrome", "aeroway=heliport"],
       "pikmins": [
         {
@@ -671,6 +675,49 @@
         {
           "id": 7,
           "color": "pink"
+        }
+      ]
+    },
+    {
+      "icon": "flight_outlined",
+      "name": "Airport — Luggage Tag",
+      "translations": {
+        "de": "Flughafen — Gepäckanhänger"
+      },
+      "color": "lightBlue",
+      "osmTags": ["aeroway=aerodrome", "aeroway=heliport"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
         }
       ]
     },
