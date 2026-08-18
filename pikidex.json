@@ -682,6 +682,7 @@
       "icon": "flight_outlined",
       "name": "Airport — Luggage Tag",
       "translations": {
+        "en": "Airport — Luggage Tag",
         "de": "Flughafen — Gepäckanhänger"
       },
       "color": "lightBlue",
