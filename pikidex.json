@@ -103,6 +103,9 @@
     {
       "icon": "local_cafe_outlined",
       "name": "Cafe",
+      "translations": {
+        "en": "Café — Coffee Cup"
+      },
       "osmTags": ["amenity=cafe", "cuisine=coffee_shop"],
       "pikmins": [
         {
@@ -179,6 +182,9 @@
     {
       "icon": "cake_outlined",
       "name": "Sweetshop",
+      "translations": {
+        "en": "Sweetshop — Macaron"
+      },
       "osmTags": ["shop=confectionery", "shop=pastry"],
       "pikmins": [
         {
@@ -250,6 +256,9 @@
     {
       "icon": "theaters_rounded",
       "name": "Movie Theater",
+      "translations": {
+        "en": "Movie Theater — Popcorn Snack"
+      },
       "osmTags": ["amenity=cinema"],
       "pikmins": [
         {
@@ -385,6 +394,9 @@
     {
       "icon": "pets_outlined",
       "name": "Zoo",
+      "translations": {
+        "en": "Zoo — Dandelion"
+      },
       "osmTags": ["tourism=zoo"],
       "pikmins": [
         {
@@ -420,6 +432,9 @@
     {
       "icon": "forest_outlined",
       "name": "Forest — Stag beetle",
+      "translations": {
+        "en": "Forest — Stag Beetle"
+      },
       "color": "grey",
       "osmTags": ["landuse=forest", "natural=wood"],
       "pikmins": [
@@ -460,6 +475,9 @@
     {
       "icon": "forest_outlined",
       "name": "Forest — Acorn suit",
+      "translations": {
+        "en": "Forest — Acorn"
+      },
       "osmTags": ["landuse=forest", "natural=wood"],
       "pikmins": [
         {
@@ -537,6 +555,9 @@
     {
       "icon": "water_outlined",
       "name": "Waterside",
+      "translations": {
+        "en": "Waterside — Fishing Lure"
+      },
       "osmTags": ["natural=water"],
       "pikmins": [
         {
@@ -572,6 +593,9 @@
     {
       "icon": "local_post_office",
       "name": "Post Office",
+      "translations": {
+        "en": "Post Office — Stamp"
+      },
       "osmTags": ["amenity=post_office"],
       "pikmins": [
         {
@@ -607,6 +631,9 @@
     {
       "icon": "museum_outlined",
       "name": "Art Gallery",
+      "translations": {
+        "en": "Art Gallery — Picture Frame"
+      },
       "osmTags": ["shop=art", "tourism=museum"],
       "pikmins": [
         {
@@ -725,6 +752,9 @@
     {
       "icon": "directions_transit",
       "name": "Station",
+      "translations": {
+        "en": "Station — Paper Train"
+      },
       "osmTags": ["building=train_station", "railway=station"],
       "pikmins": [
         {
@@ -853,6 +883,9 @@
     {
       "icon": "beach_access",
       "name": "Beach",
+      "translations": {
+        "en": "Beach — Shell"
+      },
       "osmTags": ["natural=beach"],
       "pikmins": [
         {
@@ -888,6 +921,9 @@
     {
       "icon": "lunch_dining_outlined",
       "name": "Hamburger Shop",
+      "translations": {
+        "en": "Burger Place — Burger"
+      },
       "osmTags": ["amenity=fast_food", "cuisine=burger"],
       "pikmins": [
         {
@@ -923,6 +959,9 @@
     {
       "icon": "store_outlined",
       "name": "Mini-mart",
+      "translations": {
+        "en": "Corner Store — Bottle Cap"
+      },
       "color": "blue",
       "osmTags": ["shop=convenience"],
       "pikmins": [
@@ -959,6 +998,9 @@
     {
       "icon": "store_outlined",
       "name": "Mini-mart — Snack",
+      "translations": {
+        "en": "Corner Store — Snack"
+      },
       "osmTags": ["shop=convenience"],
       "pikmins": [
         {
@@ -1103,6 +1145,9 @@
     {
       "icon": "bakery_dining_outlined",
       "name": "Bakery",
+      "translations": {
+        "en": "Bakery — Baguette"
+      },
       "osmTags": ["cuisine=pretzel", "shop=bakery"],
       "pikmins": [
         {
@@ -1218,6 +1263,9 @@
     {
       "icon": "content_cut_outlined",
       "name": "Hair Salon",
+      "translations": {
+        "en": "Hair Salon — Scissors"
+      },
       "osmTags": ["shop=hairdresser"],
       "pikmins": [
         {
@@ -1253,6 +1301,9 @@
     {
       "icon": "checkroom_outlined",
       "name": "Cloting Store",
+      "translations": {
+        "en": "Clothing Store — Hair Tie"
+      },
       "osmTags": ["shop=clothes", "shop=shoes"],
       "pikmins": [
         {
@@ -1288,6 +1339,9 @@
     {
       "icon": "chair_outlined",
       "name": "Park",
+      "translations": {
+        "en": "Park — Clover"
+      },
       "osmTags": ["leisure=park"],
       "pikmins": [
         {
@@ -1446,6 +1500,9 @@
     {
       "icon": "import_contacts_outlined",
       "name": "Library — Tiny Book",
+      "translations": {
+        "en": "Library & Bookstore — Tiny Book"
+      },
       "osmTags": ["amenity=library"],
       "pikmins": [
         {
@@ -1677,6 +1734,9 @@
     {
       "icon": "set_meal_outlined",
       "name": "Sushi Restaurant",
+      "translations": {
+        "en": "Sushi Restaurant — Sushi"
+      },
       "osmTags": ["cuisine=sushi"],
       "pikmins": [
         {
@@ -1712,6 +1772,9 @@
     {
       "icon": "landscape",
       "name": "Mountain — Pin Badge",
+      "translations": {
+        "en": "Mountain — Mountain Pin Badge"
+      },
       "osmTags": ["natural=peak"],
       "pikmins": [
         {
@@ -1827,6 +1890,9 @@
     {
       "icon": "partly_cloudy_day",
       "name": "Weather — Leaf Hat",
+      "translations": {
+        "en": "Rainy Day — Leaf Hat"
+      },
       "pikmins": [
         {
           "id": 1,
@@ -2048,6 +2114,9 @@
     {
       "icon": "badge",
       "name": "Bridge — Bridge Badge",
+      "translations": {
+        "en": "Bridge — Bridge Pin Badge"
+      },
       "osmTags": ["bridge=viaduct", "bridge=yes"],
       "pikmins": [
         {
@@ -2427,6 +2496,9 @@
       "icon": "build",
       "name": "Hardware Store – Tool",
       "availableFrom": "2024-09-12",
+      "translations": {
+        "en": "DIY Store — Tool"
+      },
       "osmTags": ["shop=doityourself", "shop=hardware"],
       "pikmins": [
         {
