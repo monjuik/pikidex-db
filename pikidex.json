@@ -3962,8 +3962,8 @@
       "name": "Special — Ice Cream: 2024 Flavor",
       "color": "yellow",
       "isSeasonal": true,
-      "seasonStart": "2025-08-01",
-      "seasonEnd": "2025-09-05",
+      "seasonStart": "2026-08-01",
+      "seasonEnd": "2026-09-05",
       "pikmins": [
         {
           "id": 1,
