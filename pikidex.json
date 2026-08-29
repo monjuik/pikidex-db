@@ -4974,8 +4974,8 @@
       "icon": "ac_unit_outlined",
       "name": "Special — Shaved Ice",
       "isSeasonal": true,
-      "seasonStart": "2025-08-01",
-      "seasonEnd": "2025-09-07",
+      "seasonStart": "2026-08-01",
+      "seasonEnd": "2026-09-07",
       "color": "blue",
       "pikmins": [
         {
