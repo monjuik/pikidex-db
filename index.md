@@ -9,7 +9,7 @@ last_modified_at: 2026-07-03
 Community-maintained dataset for the Pikidex app — a companion for *Pikmin Bloom* that helps track and organize your Pikmin decor collection.
 
 
-## 📦 About
+## About
 
 This repository hosts the public JSON file with up-to-date Pikmin decor data, curated and verified by the Pikidex community.
 
@@ -104,7 +104,7 @@ Registry](https://www.iana.org/assignments/language-subtag-registry/language-sub
   - `color` repeats the Pikmin colour keyword so UI elements can render with the correct hue.
 
 
-## 🧑‍💻 Contributing
+## Contributing
 
 Report issues or suggest improvements at [GitHub](https://github.com/monjuik/pikidex-db/issues).
 
@@ -121,7 +121,7 @@ Updating missing translations would be very helpful. For this kindly use origina
 
 ## ⚖️ License
 
-© 2025 Pikidex Community
+© 2025 Pikidex Community, monjuik@hey.com
 Licensed under the [Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 > Commercial redistribution, resale, or integration of this dataset into paid or ad-monetized applications is strictly prohibited.
