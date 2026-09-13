@@ -122,6 +122,7 @@ Updating missing translations would be very helpful. For this kindly use origina
 ## ⚖️ License
 
 © 2025 Pikidex Community, monjuik@hey.com
+
 Licensed under the [Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 > Commercial redistribution, resale, or integration of this dataset into paid or ad-monetized applications is strictly prohibited.
