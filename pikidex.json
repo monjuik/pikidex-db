@@ -515,6 +515,90 @@
       ]
     },
     {
+      "icon": "forest_outlined",
+      "name": "Forest — Stag Beetle (Rare)",
+      "isRare": true,
+      "availableFrom": "2026-09-09",
+      "color": "yellow",
+      "osmTags": ["landuse=forest", "natural=wood"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "forest_outlined",
+      "name": "Forest — Acorn (Rare)",
+      "isRare": true,
+      "availableFrom": "2026-09-09",
+      "color": "red",
+      "osmTags": ["landuse=forest", "natural=wood"],
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "white"
+        },
+        {
+          "id": 5,
+          "color": "purple"
+        },
+        {
+          "id": 6,
+          "color": "grey"
+        },
+        {
+          "id": 7,
+          "color": "pink"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
       "icon": "water_outlined",
       "color": "yellow",
       "name": "Waterside — Fishing Lure (Rare)",
