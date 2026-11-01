@@ -4801,8 +4801,8 @@
       "color": "blue",
       "name": "Special — 3rd Anniversary Cupcake",
       "isSeasonal": true,
-      "seasonStart": "2025-11-01",
-      "seasonEnd": "2025-12-07",
+      "seasonStart": "2026-11-01",
+      "seasonEnd": "2026-12-07",
       "pikmins": [
         {
           "id": 1,
@@ -4818,19 +4818,19 @@
         },
         {
           "id": 4,
+          "color": "purple"
+        },
+        {
+          "id": 4,
           "color": "white"
         },
         {
-          "id": 5,
-          "color": "purple"
+          "id": 6,
+          "color": "pink"
         },
         {
           "id": 6,
           "color": "grey"
-        },
-        {
-          "id": 7,
-          "color": "pink"
         }
       ]
     },
