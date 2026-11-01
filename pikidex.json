@@ -5806,6 +5806,48 @@
     },
     {
       "icon": "question_mark_outlined",
+      "name": "Special — 5th Anniversary Toy Jewelry",
+      "color": "blue",
+      "isSeasonal": true,
+      "seasonStart": "2026-11-01",
+      "seasonEnd": "2026-12-07",
+      "pikmins": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "yellow"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "purple"
+        },
+        {
+          "id": 5,
+          "color": "white"
+        },
+        {
+          "id": 6,
+          "color": "pink"
+        },
+        {
+          "id": 7,
+          "color": "grey"
+        },
+        {
+          "id": 8,
+          "color": "lightBlue"
+        }
+      ]
+    },
+    {
+      "icon": "question_mark_outlined",
       "name": "Special — Golden Toy Airplane",
       "translations": {
         "en": "Special — Golden Toy Airplane",
